@@ -1,6 +1,7 @@
 # 内容：Claude
-DOMAIN-SUFFIX,claude.ai
+# 数量：5条
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
 PROCESS-NAME,claude

@@ -1,5 +1,5 @@
 # 内容：PrivateTracker
-# 数量：122条
+# 数量：123条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -116,10 +116,10 @@ DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,torrentday.com
 DOMAIN-SUFFIX,torrentleech.org
-DOMAIN-SUFFIX,tleechreload.org
 DOMAIN-SUFFIX,torrentseeds.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
+DOMAIN-SUFFIX,tleechreload.org
